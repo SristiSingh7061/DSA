@@ -15,6 +15,7 @@ Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SristiSingh7061/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SristiSingh7061/DSA/tree/master/0009-palindrome-number) |
 ## Divide and Conquer
 |  |
@@ -24,4 +25,12 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SristiSingh7061/DSA/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SristiSingh7061/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SristiSingh7061/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
