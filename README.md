@@ -8,10 +8,12 @@ Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/SristiSingh7061/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/SristiSingh7061/DSA/tree/master/0053-maximum-subarray) |
+| [1207-unique-number-of-occurrences](https://github.com/SristiSingh7061/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SristiSingh7061/DSA/tree/master/0001-two-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/SristiSingh7061/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
