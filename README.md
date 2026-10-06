@@ -29,8 +29,10 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SristiSingh7061/DSA/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/SristiSingh7061/DSA/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SristiSingh7061/DSA/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/SristiSingh7061/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
