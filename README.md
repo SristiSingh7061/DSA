@@ -8,11 +8,13 @@ Leetcode Solutions
 | ------- |
 | [0001-two-sum](https://github.com/SristiSingh7061/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/SristiSingh7061/DSA/tree/master/0053-maximum-subarray) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SristiSingh7061/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/SristiSingh7061/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SristiSingh7061/DSA/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SristiSingh7061/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/SristiSingh7061/DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
@@ -37,4 +39,8 @@ Leetcode Solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/SristiSingh7061/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SristiSingh7061/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SristiSingh7061/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
